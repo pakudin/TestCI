@@ -1,4 +1,4 @@
-package com.example.npakudin.testci;
+package com.example.npakudin.testci2;
 
 import org.junit.Test;
 
